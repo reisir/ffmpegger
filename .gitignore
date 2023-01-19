@@ -1,0 +1,4 @@
+ffmpeg.exe
+*/Songs/*
+!Songs
+*.wav
